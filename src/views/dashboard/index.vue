@@ -4,6 +4,6 @@
 </script>
 <template>
 <div>
-    Dashboard
+    Dashboard V1
 </div>
 </template>
